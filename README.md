@@ -1,1 +1,1 @@
-# simple_automated_bot
+# simple automated bot
